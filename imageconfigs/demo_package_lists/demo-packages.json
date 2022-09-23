@@ -1,6 +1,7 @@
 {
     "packages": [
-        "hello_world_demo",
+        "envoy",
+        "netplan",
         "os-subrelease"
     ]
 }

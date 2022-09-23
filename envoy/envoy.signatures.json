@@ -1,0 +1,8 @@
+{
+    "Signatures": {
+        "envoy-1.21.0-gocache.tar.gz": "46a2ff81e05ea58efdd4bf6de2712672eadeb1657e6114e549dda54d3c786538",
+        "envoy-1.21.0-vendor.tar.gz": "b678250424661445dc12e8d9599093284b3d77632d461057ec78abab7bcaa561",
+        "envoy-1.23.0.tar.gz": "4fa36f958df2094488c352e73ed93ecee30466326437d280a6a9bef7af915404",
+        "envoy-rpmlintrc": "ffe0eab52e5f1784480498388219f54251595e44c431cf82fe676af614ef421a"
+    }
+}
