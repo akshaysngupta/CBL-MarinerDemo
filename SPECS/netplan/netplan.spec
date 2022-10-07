@@ -76,6 +76,8 @@ Currently supported backends are NetworkManager and systemd-networkd.
 %dir %{_sysconfdir}/%{name}
 %{_prefix}/lib/%{name}/
 %{_datadir}/bash-completion/completions/%{name}
+%{_includedir}/%{name}/
+%{_libdir}/libnetplan.so
 %{_libdir}/libnetplan.so.*
 
 # ------------------------------------------------------------------------------------------------
